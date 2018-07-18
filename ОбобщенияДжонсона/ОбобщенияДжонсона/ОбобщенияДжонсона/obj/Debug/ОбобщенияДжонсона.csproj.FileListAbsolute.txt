@@ -1,0 +1,20 @@
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.csprojResolveAssemblyReference.cache
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.Form1.resources
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.Properties.Resources.resources
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.csproj.GenerateResource.Cache
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.csproj.CoreCompileInputs.cache
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\bin\Debug\ОбобщенияДжонсона.exe.config
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\bin\Debug\ОбобщенияДжонсона.exe
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\bin\Debug\ОбобщенияДжонсона.pdb
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.exe
+C:\Users\versh\Documents\Visual Studio 2017\Projects\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.pdb
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\bin\Debug\ОбобщенияДжонсона.exe.config
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\bin\Debug\ОбобщенияДжонсона.exe
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\bin\Debug\ОбобщенияДжонсона.pdb
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.csprojResolveAssemblyReference.cache
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.Form1.resources
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.Properties.Resources.resources
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.csproj.GenerateResource.cache
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.csproj.CoreCompileInputs.cache
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.exe
+C:\Users\katya\Desktop\ОбобщенияДжонсона\ОбобщенияДжонсона\ОбобщенияДжонсона\obj\Debug\ОбобщенияДжонсона.pdb
